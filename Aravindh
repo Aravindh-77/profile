@@ -1,0 +1,19 @@
+I'm proficient in Pyspark, Python, Hadoop, SQL, Apache airflow and have solid understanding of data warehousing and data modelling.
+i am certified in databricks as databrick associate data engineer.
+
+Project in Python:
+
+Talent Neuron – Harvester
+Role: Developer
+Duration: Jan 2016 to Dec 2019
+Description: Harvesting Talent’s data from various websites using pyspark done some filtered part
+with timestamps as JSON format and stored those data into MongoDb and then indexed into Elastic
+search and done some automation work using shell scripting and Oozie workflow.
+Technologies used: Pyspark, python, MongoDB and Elastic search.
+Responsibilities:
+ Developing PySpark application and done some parsing and data processing.
+ Creating MongoDb colletion and store those data in it and indexing into Elastic search
+ Scheduling Automation job using Shell Scripting and Oozie.
+ Prepared technical document.
+ Maintain and stored the data in staging layer for processing before loading into final target
+table.
